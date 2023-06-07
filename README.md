@@ -10,7 +10,7 @@ This repository displays information about the Deep Learning Reading Group at th
 | 13 June         | ...              | (break)          |
 | 20 June         | Francesco Vigano | 7.8 - 7.14       |
 | 27 June         | Yuyang Huang     | 8.1 - 8.3        |
-| 4 July          |                  | 8.4 - 8.7        |
+| 4 July          | Arne Wolf        | 8.4 - 8.7        |
 | 11 July         | ...              | (break)          |
 | 18 July         |                  | 9.1 - 9.4        |
 | 25 July         |                  | 9.5 - 9.9        |
