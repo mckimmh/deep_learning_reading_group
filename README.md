@@ -8,11 +8,16 @@ This repository displays information about the Deep Learning Reading Group at th
 | 30 May          | Hector McKimm    | 6.4 - 6.5        |
 | 6 June          | Alice Malivert   | 7.1 - 7.7        |
 | 13 June         | ...              | (break)          |
-| 20 June         | Francesco Vigano | 7.8 - 7.14       |
-| 27 June         | Yuyang Huang     | 8.1 - 8.3        |
-| 4 July          | Arne Wolf        | 8.4 - 8.7        |
+| 20 June         | Francesco Vigano | 7.8 - 7.12       |
+| 27 June         | ...              | (break)          |
+| 4 July          | Arne Wolf        | 8.1 - 8.2        |
 | 11 July         | ...              | (break)          |
-| 18 July         |                  | 9.1 - 9.4        |
-| 25 July         |                  | 9.5 - 9.9        |
-| 1 August        |                  | 10.1 - 10.6      |
-| 8 August        |                  | 10.7 - 10.12     | 
+| 18 July         | Yuyang Huang     | 8.3 - 8.5        |
+
+To cover:
+ - 9.1-9.4 (CNNs)
+ - 9.5-9.9
+ - 10.1-10.6 (RNNs)
+ - 10.7-10.12
+ - 14.1-14.4 (Autoencoders)
+ - 14.5-14.8
